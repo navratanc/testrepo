@@ -1,1 +1,1 @@
-This is to show how a merge conflict takes place
+another commit This is to show how a merge conflict takes place
