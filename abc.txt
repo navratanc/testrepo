@@ -2,3 +2,8 @@ hi
 test line 2
 yes
 This is to show how a merge conflict takes place
+<td class="detail"><input type=text name=txtcountry_name size=50 value="" maxlength=50>
+<input checked type=checkbox name=chk_txtcountry_name id=chk_txtcountry_name /></tD>
+<td width=25%>&nbsp;</td>
+<td width=5%>&nbsp;</td>
+</tR>
