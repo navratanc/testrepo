@@ -1,1 +1,5 @@
 another commit This is to show how a merge conflict takes place
+hi
+test line 2
+yes
+This is to show how a merge conflict takes place
